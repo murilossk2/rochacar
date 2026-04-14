@@ -91,19 +91,40 @@ class GitHubDeployer:
             
             # Commit
             mensagem = f"Atualização automática - {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}"
-            subprocess.run(['git', 'commit', '-m', mensagem], check=True)
+            result = subprocess.run(['git', 'commit', '-m', mensagem], capture_output=True, text=True)
+            
+            # Se não há nada para commitar, tudo bem
+            if 'nothing to commit' in result.stdout or 'nothing to commit' in result.stderr:
+                print("ℹ️  Nenhuma alteração para commitar")
+            
+            # Pull primeiro (caso tenha commits remotos)
+            print("📥 Sincronizando com GitHub...")
+            subprocess.run(['git', 'pull', '--rebase'], check=True, capture_output=True)
             
             # Push
-            subprocess.run(['git', 'push'], check=True)
+            print("📤 Enviando para GitHub...")
+            result = subprocess.run(['git', 'push'], capture_output=True, text=True)
+            
+            if result.returncode != 0:
+                print(f"❌ Erro no push:")
+                print(f"   {result.stderr}")
+                
+                # Tentar push com force
+                print("🔄 Tentando push forçado...")
+                result = subprocess.run(['git', 'push', '-f'], capture_output=True, text=True)
+                
+                if result.returncode != 0:
+                    print(f"❌ Push forçado também falhou:")
+                    print(f"   {result.stderr}")
+                    return False
             
             print(f"✓ Commit e push realizados")
             return True
             
         except subprocess.CalledProcessError as e:
-            if 'nothing to commit' in str(e.stderr):
-                print("ℹ️  Nenhuma alteração para commitar")
-                return True
             print(f"❌ Erro no git: {e}")
+            if e.stderr:
+                print(f"   Detalhes: {e.stderr.decode() if isinstance(e.stderr, bytes) else e.stderr}")
             return False
         except Exception as e:
             print(f"❌ Erro: {e}")
