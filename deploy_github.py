@@ -86,8 +86,16 @@ class GitHubDeployer:
         try:
             os.chdir(self.repo_path)
             
+            # Pull primeiro para sincronizar
+            print("📥 Sincronizando com GitHub...")
+            try:
+                subprocess.run(['git', 'pull', '--rebase'], check=True, capture_output=True)
+            except subprocess.CalledProcessError:
+                # Se falhar, tentar pull normal
+                subprocess.run(['git', 'pull'], check=True, capture_output=True)
+            
             # Add
-            subprocess.run(['git', 'add', '.'], check=True)
+            subprocess.run(['git', 'add', '.'], check=True, capture_output=True)
             
             # Commit
             mensagem = f"Atualização automática - {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}"
@@ -96,35 +104,24 @@ class GitHubDeployer:
             # Se não há nada para commitar, tudo bem
             if 'nothing to commit' in result.stdout or 'nothing to commit' in result.stderr:
                 print("ℹ️  Nenhuma alteração para commitar")
-            
-            # Pull primeiro (caso tenha commits remotos)
-            print("📥 Sincronizando com GitHub...")
-            subprocess.run(['git', 'pull', '--rebase'], check=True, capture_output=True)
+                return True
             
             # Push
-            print("📤 Enviando para GitHub...")
+            print("� Enviando para GitHub...")
             result = subprocess.run(['git', 'push'], capture_output=True, text=True)
             
             if result.returncode != 0:
-                print(f"❌ Erro no push:")
-                print(f"   {result.stderr}")
-                
-                # Tentar push com force
-                print("🔄 Tentando push forçado...")
-                result = subprocess.run(['git', 'push', '-f'], capture_output=True, text=True)
-                
-                if result.returncode != 0:
-                    print(f"❌ Push forçado também falhou:")
-                    print(f"   {result.stderr}")
-                    return False
+                print(f"❌ Erro no push: {result.stderr}")
+                return False
             
             print(f"✓ Commit e push realizados")
             return True
             
         except subprocess.CalledProcessError as e:
             print(f"❌ Erro no git: {e}")
-            if e.stderr:
-                print(f"   Detalhes: {e.stderr.decode() if isinstance(e.stderr, bytes) else e.stderr}")
+            if hasattr(e, 'stderr') and e.stderr:
+                stderr_text = e.stderr.decode() if isinstance(e.stderr, bytes) else e.stderr
+                print(f"   Detalhes: {stderr_text}")
             return False
         except Exception as e:
             print(f"❌ Erro: {e}")
