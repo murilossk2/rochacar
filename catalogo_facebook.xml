@@ -5,21 +5,6 @@
     <link>https://rochacarveiculos.com.br</link>
     <description>Catálogo de veículos usados</description>
     <item>
-      <g:id>942263</g:id>
-      <g:title>Honda BIZ 125 ES/ 125 ES FLEX</g:title>
-      <g:description>2026/2026 - 4 km - Automatizado - FLEX</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=942263</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/942263/1774356086181-7907484_2_B_6c684024bd.jpeg</g:image_link>
-      <g:price>16900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Honda</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2026</g:year>
-      <g:mileage>4 km</g:mileage>
-      <g:fuel_type>FLEX</g:fuel_type>
-    </item>
-    <item>
       <g:id>961130</g:id>
       <g:title>Fiat Strada</g:title>
       <g:description>2025/2026 - 8.594 km - Mecânico - Flex</g:description>
@@ -65,6 +50,21 @@
       <g:fuel_type>Híbrido</g:fuel_type>
     </item>
     <item>
+      <g:id>942263</g:id>
+      <g:title>Honda BIZ 125 ES/ 125 ES FLEX</g:title>
+      <g:description>2026/2026 - 4 km - Automatizado - FLEX</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=942263</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/942263/1774356086181-7907484_2_B_6c684024bd.jpeg</g:image_link>
+      <g:price>16900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Honda</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2026</g:year>
+      <g:mileage>4 km</g:mileage>
+      <g:fuel_type>FLEX</g:fuel_type>
+    </item>
+    <item>
       <g:id>972640</g:id>
       <g:title>BMW 328i</g:title>
       <g:description>2013/2014 - 72.359 km - Automático - Flex</g:description>
@@ -77,21 +77,6 @@
       <g:google_product_category>916</g:google_product_category>
       <g:year>2014</g:year>
       <g:mileage>72359 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>1006689</g:id>
-      <g:title>Ford Focus</g:title>
-      <g:description>2014/2015 - 112.000 km - Automatizado - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1006689</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/1006689/1776453004231-7992767_13_B_e2dfb6c54c.jpeg</g:image_link>
-      <g:price>51900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2015</g:year>
-      <g:mileage>112000 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
@@ -110,12 +95,27 @@
       <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
+      <g:id>1006689</g:id>
+      <g:title>Ford Focus</g:title>
+      <g:description>2014/2015 - 112.000 km - Automatizado - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1006689</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/1006689/1776453004231-7992767_13_B_e2dfb6c54c.jpeg</g:image_link>
+      <g:price>51900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Ford</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2015</g:year>
+      <g:mileage>112000 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
       <g:id>1003223</g:id>
       <g:title>Renault Sandero</g:title>
       <g:description>2010/2011 - 136.245 km - Mecânico - Flex</g:description>
       <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1003223</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/1003223/1776452858905-7988940_10_B_b9e800760a.jpeg</g:image_link>
-      <g:price>34900.00 BRL</g:price>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/1003223/1776689166014-7988940_10_B_b9e800760a.jpeg</g:image_link>
+      <g:price>35900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
       <g:brand>Renault</g:brand>
@@ -123,51 +123,6 @@
       <g:year>2011</g:year>
       <g:mileage>136245 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>38912</g:id>
-      <g:title>Volkswagen Voyage</g:title>
-      <g:description>2021/2022 - 115.400 km - Mecânico - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=38912</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/38912/1775593430496-7476054_13_B_17f39477b7.jpeg</g:image_link>
-      <g:price>60900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2022</g:year>
-      <g:mileage>115400 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>965060</g:id>
-      <g:title>Ford Focus</g:title>
-      <g:description>2016/2016 - 81.100 km - Automatizado - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=965060</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/965060/1774637461520-7908869_11_B_08575c2820.jpeg</g:image_link>
-      <g:price>57900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2016</g:year>
-      <g:mileage>81100 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>973015</g:id>
-      <g:title>Kia SOUL</g:title>
-      <g:description>2010/2011 - 155.449 km - Automático - FLEX</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=973015</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/973015/1774985563748-7951680_8_B_c387da3247.jpeg</g:image_link>
-      <g:price>37900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Kia</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2011</g:year>
-      <g:mileage>155449 km</g:mileage>
-      <g:fuel_type>FLEX</g:fuel_type>
     </item>
     <item>
       <g:id>887676</g:id>
@@ -200,19 +155,49 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>866669</g:id>
-      <g:title>Ford Ranger</g:title>
-      <g:description>2014/2014 - 218.613 km - Mecânico - Diesel</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=866669</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/866669/1772742475731-7822030_15_B_8683fff4ce.jpeg</g:image_link>
-      <g:price>86900.00 BRL</g:price>
+      <g:id>965060</g:id>
+      <g:title>Ford Focus</g:title>
+      <g:description>2016/2016 - 81.100 km - Automatizado - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=965060</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/965060/1774637461520-7908869_11_B_08575c2820.jpeg</g:image_link>
+      <g:price>57900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
       <g:brand>Ford</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2014</g:year>
-      <g:mileage>218613 km</g:mileage>
-      <g:fuel_type>Diesel</g:fuel_type>
+      <g:year>2016</g:year>
+      <g:mileage>81100 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
+      <g:id>38912</g:id>
+      <g:title>Volkswagen Voyage</g:title>
+      <g:description>2021/2022 - 115.400 km - Mecânico - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=38912</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/38912/1775593430496-7476054_13_B_17f39477b7.jpeg</g:image_link>
+      <g:price>60900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2022</g:year>
+      <g:mileage>115400 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
+      <g:id>973015</g:id>
+      <g:title>Kia SOUL</g:title>
+      <g:description>2010/2011 - 155.449 km - Automático - FLEX</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=973015</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/973015/1774985563748-7951680_8_B_c387da3247.jpeg</g:image_link>
+      <g:price>37900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Kia</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2011</g:year>
+      <g:mileage>155449 km</g:mileage>
+      <g:fuel_type>FLEX</g:fuel_type>
     </item>
     <item>
       <g:id>38906</g:id>
@@ -273,6 +258,21 @@
       <g:year>2014</g:year>
       <g:mileage>118760 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
+      <g:id>866669</g:id>
+      <g:title>Ford Ranger</g:title>
+      <g:description>2014/2014 - 218.613 km - Mecânico - Diesel</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=866669</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/866669/1772742475731-7822030_15_B_8683fff4ce.jpeg</g:image_link>
+      <g:price>86900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Ford</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2014</g:year>
+      <g:mileage>218613 km</g:mileage>
+      <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
       <g:id>878116</g:id>
@@ -395,26 +395,26 @@
       <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
-      <g:id>874624</g:id>
-      <g:title>Chevrolet Classic</g:title>
-      <g:description>2013/2014 - 114.000 km - Mecânico - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=874624</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/874624/1772742477200-7768550_7_B_9a58c67bdf.jpeg</g:image_link>
-      <g:price>29900.00 BRL</g:price>
+      <g:id>954136</g:id>
+      <g:title>Mercedes-Benz C-180</g:title>
+      <g:description>2013/2014 - 194.214 km - Automático - Gasolina</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=954136</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/954136/1774356087773-7923765_9_B_37102d9fe2.jpeg</g:image_link>
+      <g:price>77900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
+      <g:brand>Mercedes-Benz</g:brand>
       <g:google_product_category>916</g:google_product_category>
       <g:year>2014</g:year>
-      <g:mileage>114000 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
+      <g:mileage>194214 km</g:mileage>
+      <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
       <g:id>786904</g:id>
       <g:title>Ford Ka</g:title>
       <g:description>2019/2020 - 75.600 km - Mecânico - Flex</g:description>
       <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=786904</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/786904/1770389322375-7774425_10_B_f750afb43f.jpeg</g:image_link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/786904/1770389322386-7774425_0_B_e6404d79d9.jpeg</g:image_link>
       <g:price>49900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
@@ -455,19 +455,19 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>954136</g:id>
-      <g:title>Mercedes-Benz C-180</g:title>
-      <g:description>2013/2014 - 194.214 km - Automático - Gasolina</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=954136</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/954136/1774356087773-7923765_9_B_37102d9fe2.jpeg</g:image_link>
-      <g:price>77900.00 BRL</g:price>
+      <g:id>874624</g:id>
+      <g:title>Chevrolet Classic</g:title>
+      <g:description>2013/2014 - 114.000 km - Mecânico - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=874624</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/874624/1772742477200-7768550_7_B_9a58c67bdf.jpeg</g:image_link>
+      <g:price>29900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Mercedes-Benz</g:brand>
+      <g:brand>Chevrolet</g:brand>
       <g:google_product_category>916</g:google_product_category>
       <g:year>2014</g:year>
-      <g:mileage>194214 km</g:mileage>
-      <g:fuel_type>Gasolina</g:fuel_type>
+      <g:mileage>114000 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
     </item>
   </channel>
 </rss>
