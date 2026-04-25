@@ -5,49 +5,19 @@
     <link>https://rochacarveiculos.com.br</link>
     <description>Catálogo de veículos usados</description>
     <item>
-      <g:id>906924</g:id>
-      <g:title>Jeep Compass</g:title>
-      <g:description>2018/2018 - 95.600 km - Automático - Diesel</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=906924</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/906924/1775585581679-7872719_16_B_5ec29de117.jpeg</g:image_link>
-      <g:price>112900.00 BRL</g:price>
+      <g:id>942263</g:id>
+      <g:title>Honda BIZ 125 ES/ 125 ES FLEX</g:title>
+      <g:description>2026/2026 - 4 km - Automatizado - FLEX</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=942263</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/942263/1774356086181-7907484_2_B_6c684024bd.jpeg</g:image_link>
+      <g:price>16900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Jeep</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2018</g:year>
-      <g:mileage>95600 km</g:mileage>
-      <g:fuel_type>Diesel</g:fuel_type>
-    </item>
-    <item>
-      <g:id>961130</g:id>
-      <g:title>Fiat Strada</g:title>
-      <g:description>2025/2026 - 8.594 km - Mecânico - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=961130</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/961130/1774529099026-7931654_4_B_b8a294ab56.jpeg</g:image_link>
-      <g:price>96900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Fiat</g:brand>
+      <g:brand>Honda</g:brand>
       <g:google_product_category>916</g:google_product_category>
       <g:year>2026</g:year>
-      <g:mileage>8594 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>38913</g:id>
-      <g:title>Toyota Corolla Cross</g:title>
-      <g:description>2021/2022 - 95.225 km - Automático - Híbrido</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=38913</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/38913/1775585575300-7479899_11_B_e139113259.jpeg</g:image_link>
-      <g:price>144900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Toyota</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2022</g:year>
-      <g:mileage>95225 km</g:mileage>
-      <g:fuel_type>Híbrido</g:fuel_type>
+      <g:mileage>4 km</g:mileage>
+      <g:fuel_type>FLEX</g:fuel_type>
     </item>
     <item>
       <g:id>972640</g:id>
@@ -65,34 +35,19 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>988551</g:id>
-      <g:title>Honda Civic</g:title>
-      <g:description>2018/2019 - 106.000 km - Automático - Gasolina</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=988551</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/988551/1775766372162-7942729_11_B_346a982fa2.jpeg</g:image_link>
-      <g:price>131900.00 BRL</g:price>
+      <g:id>906924</g:id>
+      <g:title>Jeep Compass</g:title>
+      <g:description>2018/2018 - 95.600 km - Automático - Diesel</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=906924</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/906924/1775585581679-7872719_16_B_5ec29de117.jpeg</g:image_link>
+      <g:price>112900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Honda</g:brand>
+      <g:brand>Jeep</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2019</g:year>
-      <g:mileage>106000 km</g:mileage>
-      <g:fuel_type>Gasolina</g:fuel_type>
-    </item>
-    <item>
-      <g:id>942263</g:id>
-      <g:title>Honda BIZ 125 ES/ 125 ES FLEX</g:title>
-      <g:description>2026/2026 - 4 km - Automatizado - FLEX</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=942263</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/942263/1774356086181-7907484_2_B_6c684024bd.jpeg</g:image_link>
-      <g:price>16900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Honda</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2026</g:year>
-      <g:mileage>4 km</g:mileage>
-      <g:fuel_type>FLEX</g:fuel_type>
+      <g:year>2018</g:year>
+      <g:mileage>95600 km</g:mileage>
+      <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
       <g:id>1003223</g:id>
@@ -129,7 +84,7 @@
       <g:title>Kia Sorento</g:title>
       <g:description>2016/2016 - 153.500 km - Automático - Gasolina</g:description>
       <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1022382</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/1022382/1776881066852-8014669_14_B_27e5d9acea.jpeg</g:image_link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/1022382/1777056948957-8014669_14_B_27e5d9acea.jpeg</g:image_link>
       <g:price>107900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
@@ -137,6 +92,21 @@
       <g:google_product_category>916</g:google_product_category>
       <g:year>2016</g:year>
       <g:mileage>153500 km</g:mileage>
+      <g:fuel_type>Gasolina</g:fuel_type>
+    </item>
+    <item>
+      <g:id>988551</g:id>
+      <g:title>Honda Civic</g:title>
+      <g:description>2018/2019 - 106.000 km - Automático - Gasolina</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=988551</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/988551/1777056950797-7942729_11_B_346a982fa2.jpeg</g:image_link>
+      <g:price>131900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Honda</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2019</g:year>
+      <g:mileage>106000 km</g:mileage>
       <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
@@ -170,6 +140,21 @@
       <g:fuel_type>FLEX</g:fuel_type>
     </item>
     <item>
+      <g:id>38912</g:id>
+      <g:title>Volkswagen Voyage</g:title>
+      <g:description>2021/2022 - 115.400 km - Mecânico - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=38912</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/38912/1775593430496-7476054_13_B_17f39477b7.jpeg</g:image_link>
+      <g:price>60900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2022</g:year>
+      <g:mileage>115400 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
       <g:id>887676</g:id>
       <g:title>Volkswagen T-Cross</g:title>
       <g:description>2025/2025 - 17.470 km - Automático - Flex</g:description>
@@ -198,36 +183,6 @@
       <g:year>2021</g:year>
       <g:mileage>98340 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>38912</g:id>
-      <g:title>Volkswagen Voyage</g:title>
-      <g:description>2021/2022 - 115.400 km - Mecânico - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=38912</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/38912/1775593430496-7476054_13_B_17f39477b7.jpeg</g:image_link>
-      <g:price>60900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2022</g:year>
-      <g:mileage>115400 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>866669</g:id>
-      <g:title>Ford Ranger</g:title>
-      <g:description>2014/2014 - 218.613 km - Mecânico - Diesel</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=866669</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/866669/1772742475731-7822030_15_B_8683fff4ce.jpeg</g:image_link>
-      <g:price>86900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2014</g:year>
-      <g:mileage>218613 km</g:mileage>
-      <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
       <g:id>38906</g:id>
@@ -290,49 +245,19 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>878116</g:id>
-      <g:title>Kia Sportage</g:title>
-      <g:description>2013/2013 - 135.275 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=878116</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/878116/1776350490815-7836429_12_B_9f00e513fa.jpeg</g:image_link>
-      <g:price>69900.00 BRL</g:price>
+      <g:id>866669</g:id>
+      <g:title>Ford Ranger</g:title>
+      <g:description>2014/2014 - 218.613 km - Mecânico - Diesel</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=866669</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/866669/1772742475731-7822030_15_B_8683fff4ce.jpeg</g:image_link>
+      <g:price>86900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Kia</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2013</g:year>
-      <g:mileage>135275 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>898515</g:id>
-      <g:title>Volkswagen T-Cross</g:title>
-      <g:description>2025/2026 - 15.608 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=898515</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/898515/1775585470763-7860261_11_B_1a3ca9eeae.jpeg</g:image_link>
-      <g:price>131900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2026</g:year>
-      <g:mileage>15608 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>811354</g:id>
-      <g:title>Peugeot 408</g:title>
-      <g:description>2013/2014 - 160.159 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=811354</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/811354/1776449329657-7796697_13_B_e9c2f68c22.jpeg</g:image_link>
-      <g:price>41900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Peugeot</g:brand>
+      <g:brand>Ford</g:brand>
       <g:google_product_category>916</g:google_product_category>
       <g:year>2014</g:year>
-      <g:mileage>160159 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
+      <g:mileage>218613 km</g:mileage>
+      <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
       <g:id>38902</g:id>
@@ -395,6 +320,21 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
+      <g:id>898515</g:id>
+      <g:title>Volkswagen T-Cross</g:title>
+      <g:description>2025/2026 - 15.608 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=898515</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/898515/1775585470763-7860261_11_B_1a3ca9eeae.jpeg</g:image_link>
+      <g:price>131900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2026</g:year>
+      <g:mileage>15608 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
       <g:id>994082</g:id>
       <g:title>Ford Fusion</g:title>
       <g:description>2013/2014 - 170.000 km - Automático - Gasolina</g:description>
@@ -410,18 +350,18 @@
       <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
-      <g:id>874624</g:id>
-      <g:title>Chevrolet Classic</g:title>
-      <g:description>2013/2014 - 114.000 km - Mecânico - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=874624</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/874624/1772742477200-7768550_7_B_9a58c67bdf.jpeg</g:image_link>
-      <g:price>29900.00 BRL</g:price>
+      <g:id>878116</g:id>
+      <g:title>Kia Sportage</g:title>
+      <g:description>2013/2013 - 135.275 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=878116</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/878116/1777057063941-7836429_12_B_9f00e513fa.jpeg</g:image_link>
+      <g:price>70900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Chevrolet</g:brand>
+      <g:brand>Kia</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2014</g:year>
-      <g:mileage>114000 km</g:mileage>
+      <g:year>2013</g:year>
+      <g:mileage>135275 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
