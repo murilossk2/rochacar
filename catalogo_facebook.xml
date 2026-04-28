@@ -65,6 +65,21 @@
       <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
+      <g:id>1022382</g:id>
+      <g:title>Kia Sorento</g:title>
+      <g:description>2016/2016 - 153.500 km - Automático - Gasolina</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1022382</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/1022382/1777056948957-8014669_14_B_27e5d9acea.jpeg</g:image_link>
+      <g:price>107900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Kia</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2016</g:year>
+      <g:mileage>153500 km</g:mileage>
+      <g:fuel_type>Gasolina</g:fuel_type>
+    </item>
+    <item>
       <g:id>1003223</g:id>
       <g:title>Renault Sandero</g:title>
       <g:description>2010/2011 - 136.245 km - Mecânico - Flex</g:description>
@@ -93,51 +108,6 @@
       <g:year>2015</g:year>
       <g:mileage>112000 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>1022382</g:id>
-      <g:title>Kia Sorento</g:title>
-      <g:description>2016/2016 - 153.500 km - Automático - Gasolina</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1022382</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/1022382/1777056948957-8014669_14_B_27e5d9acea.jpeg</g:image_link>
-      <g:price>107900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Kia</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2016</g:year>
-      <g:mileage>153500 km</g:mileage>
-      <g:fuel_type>Gasolina</g:fuel_type>
-    </item>
-    <item>
-      <g:id>965060</g:id>
-      <g:title>Ford Focus</g:title>
-      <g:description>2016/2016 - 81.100 km - Automatizado - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=965060</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/965060/1774637461520-7908869_11_B_08575c2820.jpeg</g:image_link>
-      <g:price>57900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2016</g:year>
-      <g:mileage>81100 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>973015</g:id>
-      <g:title>Kia SOUL</g:title>
-      <g:description>2010/2011 - 155.449 km - Automático - FLEX</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=973015</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/973015/1774985563748-7951680_8_B_c387da3247.jpeg</g:image_link>
-      <g:price>37900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Kia</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2011</g:year>
-      <g:mileage>155449 km</g:mileage>
-      <g:fuel_type>FLEX</g:fuel_type>
     </item>
     <item>
       <g:id>887676</g:id>
@@ -183,6 +153,36 @@
       <g:year>2022</g:year>
       <g:mileage>115400 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
+      <g:id>965060</g:id>
+      <g:title>Ford Focus</g:title>
+      <g:description>2016/2016 - 81.100 km - Automatizado - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=965060</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/965060/1774637461520-7908869_11_B_08575c2820.jpeg</g:image_link>
+      <g:price>57900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Ford</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2016</g:year>
+      <g:mileage>81100 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
+      <g:id>973015</g:id>
+      <g:title>Kia SOUL</g:title>
+      <g:description>2010/2011 - 155.449 km - Automático - FLEX</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=973015</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/973015/1774985563748-7951680_8_B_c387da3247.jpeg</g:image_link>
+      <g:price>37900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Kia</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2011</g:year>
+      <g:mileage>155449 km</g:mileage>
+      <g:fuel_type>FLEX</g:fuel_type>
     </item>
     <item>
       <g:id>38906</g:id>
