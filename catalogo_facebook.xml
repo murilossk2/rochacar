@@ -5,21 +5,6 @@
     <link>https://rochacarveiculos.com.br</link>
     <description>Catálogo de veículos usados</description>
     <item>
-      <g:id>906924</g:id>
-      <g:title>Jeep Compass</g:title>
-      <g:description>2018/2018 - 95.600 km - Automático - Diesel</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=906924</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/906924/1775585581679-7872719_16_B_5ec29de117.jpeg</g:image_link>
-      <g:price>112900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Jeep</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2018</g:year>
-      <g:mileage>95600 km</g:mileage>
-      <g:fuel_type>Diesel</g:fuel_type>
-    </item>
-    <item>
       <g:id>942263</g:id>
       <g:title>Honda BIZ 125 ES/ 125 ES FLEX</g:title>
       <g:description>2026/2026 - 4 km - Automatizado - FLEX</g:description>
@@ -65,6 +50,21 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
+      <g:id>1022382</g:id>
+      <g:title>Kia Sorento</g:title>
+      <g:description>2016/2016 - 153.500 km - Automático - Gasolina</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1022382</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/1022382/1777056948957-8014669_14_B_27e5d9acea.jpeg</g:image_link>
+      <g:price>107900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Kia</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2016</g:year>
+      <g:mileage>153500 km</g:mileage>
+      <g:fuel_type>Gasolina</g:fuel_type>
+    </item>
+    <item>
       <g:id>972640</g:id>
       <g:title>BMW 328i</g:title>
       <g:description>2013/2014 - 72.359 km - Automático - Flex</g:description>
@@ -95,19 +95,19 @@
       <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
-      <g:id>1022382</g:id>
-      <g:title>Kia Sorento</g:title>
-      <g:description>2016/2016 - 153.500 km - Automático - Gasolina</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1022382</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/1022382/1777056948957-8014669_14_B_27e5d9acea.jpeg</g:image_link>
-      <g:price>107900.00 BRL</g:price>
+      <g:id>906924</g:id>
+      <g:title>Jeep Compass</g:title>
+      <g:description>2018/2018 - 95.600 km - Automático - Diesel</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=906924</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/906924/1775585581679-7872719_16_B_5ec29de117.jpeg</g:image_link>
+      <g:price>112900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Kia</g:brand>
+      <g:brand>Jeep</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2016</g:year>
-      <g:mileage>153500 km</g:mileage>
-      <g:fuel_type>Gasolina</g:fuel_type>
+      <g:year>2018</g:year>
+      <g:mileage>95600 km</g:mileage>
+      <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
       <g:id>965060</g:id>
@@ -249,8 +249,8 @@
       <g:title>BMW 118i</g:title>
       <g:description>2009/2010 - 121.360 km - Automático - Gasolina</g:description>
       <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=38908</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/38908/1777560234677-7277967_14_B_a51db88404.jpeg</g:image_link>
-      <g:price>46900.00 BRL</g:price>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/38908/1777782880792-7277967_14_B_a51db88404.jpeg</g:image_link>
+      <g:price>49900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
       <g:brand>BMW</g:brand>
@@ -272,6 +272,21 @@
       <g:google_product_category>916</g:google_product_category>
       <g:year>2014</g:year>
       <g:mileage>118760 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
+      <g:id>898515</g:id>
+      <g:title>Volkswagen T-Cross</g:title>
+      <g:description>2025/2026 - 15.608 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=898515</g:link>
+      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/898515/1775585470763-7860261_11_B_1a3ca9eeae.jpeg</g:image_link>
+      <g:price>131900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2026</g:year>
+      <g:mileage>15608 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
@@ -302,21 +317,6 @@
       <g:google_product_category>916</g:google_product_category>
       <g:year>2013</g:year>
       <g:mileage>135275 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>898515</g:id>
-      <g:title>Volkswagen T-Cross</g:title>
-      <g:description>2025/2026 - 15.608 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=898515</g:link>
-      <g:image_link>https://assets.socarrao.com.br/sc-vehicle-images-prod/898515/1775585470763-7860261_11_B_1a3ca9eeae.jpeg</g:image_link>
-      <g:price>131900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2026</g:year>
-      <g:mileage>15608 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
