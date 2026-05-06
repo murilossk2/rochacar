@@ -35,36 +35,6 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>942263</g:id>
-      <g:title>Honda BIZ 125 ES/ 125 ES FLEX</g:title>
-      <g:description>2026/2026 - 4 km - Automatizado - FLEX</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=942263</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/942263/1777386034620-7907484_2_B_6c684024bd.jpeg</g:image_link>
-      <g:price>14900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Honda</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2026</g:year>
-      <g:mileage>4 km</g:mileage>
-      <g:fuel_type>FLEX</g:fuel_type>
-    </item>
-    <item>
-      <g:id>1006689</g:id>
-      <g:title>Ford Focus</g:title>
-      <g:description>2014/2015 - 112.000 km - Automatizado - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1006689</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1006689/1777560089449-7992767_13_B_e2dfb6c54c.jpeg</g:image_link>
-      <g:price>51900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2015</g:year>
-      <g:mileage>112000 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
       <g:id>1022382</g:id>
       <g:title>Kia Sorento</g:title>
       <g:description>2016/2016 - 153.500 km - Automático - Gasolina</g:description>
@@ -78,6 +48,36 @@
       <g:year>2016</g:year>
       <g:mileage>153500 km</g:mileage>
       <g:fuel_type>Gasolina</g:fuel_type>
+    </item>
+    <item>
+      <g:id>972640</g:id>
+      <g:title>BMW 328i</g:title>
+      <g:description>2013/2014 - 72.359 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=972640</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/972640/1777473705032-7938146_12_B_3ba46399a6.jpeg</g:image_link>
+      <g:price>105900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>BMW</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2014</g:year>
+      <g:mileage>72359 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
+      <g:id>942263</g:id>
+      <g:title>Honda BIZ 125 ES/ 125 ES FLEX</g:title>
+      <g:description>2026/2026 - 4 km - Automatizado - FLEX</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=942263</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/942263/1777386034620-7907484_2_B_6c684024bd.jpeg</g:image_link>
+      <g:price>14900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Honda</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2026</g:year>
+      <g:mileage>4 km</g:mileage>
+      <g:fuel_type>FLEX</g:fuel_type>
     </item>
     <item>
       <g:id>906924</g:id>
@@ -95,18 +95,18 @@
       <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
-      <g:id>972640</g:id>
-      <g:title>BMW 328i</g:title>
-      <g:description>2013/2014 - 72.359 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=972640</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/972640/1777473705032-7938146_12_B_3ba46399a6.jpeg</g:image_link>
-      <g:price>105900.00 BRL</g:price>
+      <g:id>1006689</g:id>
+      <g:title>Ford Focus</g:title>
+      <g:description>2014/2015 - 112.000 km - Automatizado - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1006689</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1006689/1777560089449-7992767_13_B_e2dfb6c54c.jpeg</g:image_link>
+      <g:price>51900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>BMW</g:brand>
+      <g:brand>Ford</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2014</g:year>
-      <g:mileage>72359 km</g:mileage>
+      <g:year>2015</g:year>
+      <g:mileage>112000 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
@@ -140,6 +140,21 @@
       <g:fuel_type>FLEX</g:fuel_type>
     </item>
     <item>
+      <g:id>893811</g:id>
+      <g:title>BMW X2</g:title>
+      <g:description>2020/2021 - 98.340 km - Automatizado - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=893811</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/893811/1775585579874-7852997_11_B_01a01ae9d8.jpeg</g:image_link>
+      <g:price>159900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>BMW</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2021</g:year>
+      <g:mileage>98340 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
       <g:id>1073004</g:id>
       <g:title>Toyota Corolla Cross</g:title>
       <g:description>2021/2022 - 95.225 km - Automático - Híbrido</g:description>
@@ -155,19 +170,19 @@
       <g:fuel_type>Híbrido</g:fuel_type>
     </item>
     <item>
-      <g:id>893811</g:id>
-      <g:title>BMW X2</g:title>
-      <g:description>2020/2021 - 98.340 km - Automatizado - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=893811</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/893811/1775585579874-7852997_11_B_01a01ae9d8.jpeg</g:image_link>
-      <g:price>159900.00 BRL</g:price>
+      <g:id>1180027</g:id>
+      <g:title>Volkswagen Tiguan</g:title>
+      <g:description>2013/2014 - 93.000 km - Automático - Gasolina</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1180027</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1180027/1778011051081-8023906_9_B_ddd33b2107.jpeg</g:image_link>
+      <g:price>66900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>BMW</g:brand>
+      <g:brand>Volkswagen</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2021</g:year>
-      <g:mileage>98340 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
+      <g:year>2014</g:year>
+      <g:mileage>93000 km</g:mileage>
+      <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
       <g:id>38912</g:id>
@@ -279,7 +294,7 @@
       <g:title>Kia Sportage</g:title>
       <g:description>2013/2013 - 135.275 km - Automático - Flex</g:description>
       <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=878116</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/878116/1777560166081-7836429_12_B_9f00e513fa.jpeg</g:image_link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/878116/1778007174414-7836429_7_B_539a1c9329.jpeg</g:image_link>
       <g:price>67900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
@@ -378,21 +393,6 @@
       <g:year>2014</g:year>
       <g:mileage>194214 km</g:mileage>
       <g:fuel_type>Gasolina</g:fuel_type>
-    </item>
-    <item>
-      <g:id>786904</g:id>
-      <g:title>Ford Ka</g:title>
-      <g:description>2019/2020 - 75.600 km - Mecânico - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=786904</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/786904/1776858463814-7774425_10_B_f750afb43f.jpeg</g:image_link>
-      <g:price>49900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2020</g:year>
-      <g:mileage>75600 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
       <g:id>38911</g:id>
