@@ -5,51 +5,6 @@
     <link>https://rochacarveiculos.com.br</link>
     <description>Catálogo de veículos usados</description>
     <item>
-      <g:id>906924</g:id>
-      <g:title>Jeep Compass</g:title>
-      <g:description>2018/2018 - 95.600 km - Automático - Diesel</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=906924</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/906924/1775585581679-7872719_16_B_5ec29de117.jpeg</g:image_link>
-      <g:price>112900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Jeep</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2018</g:year>
-      <g:mileage>95600 km</g:mileage>
-      <g:fuel_type>Diesel</g:fuel_type>
-    </item>
-    <item>
-      <g:id>1022382</g:id>
-      <g:title>Kia Sorento</g:title>
-      <g:description>2016/2016 - 153.500 km - Automático - Gasolina</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1022382</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1022382/1778087856284-8014669_14_B_27e5d9acea.jpeg</g:image_link>
-      <g:price>107900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Kia</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2016</g:year>
-      <g:mileage>153500 km</g:mileage>
-      <g:fuel_type>Gasolina</g:fuel_type>
-    </item>
-    <item>
-      <g:id>988551</g:id>
-      <g:title>Honda Civic</g:title>
-      <g:description>2018/2019 - 106.000 km - Automático - Gasolina</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=988551</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/988551/1778087863075-7942729_11_B_346a982fa2.jpeg</g:image_link>
-      <g:price>134900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Honda</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2019</g:year>
-      <g:mileage>106000 km</g:mileage>
-      <g:fuel_type>Gasolina</g:fuel_type>
-    </item>
-    <item>
       <g:id>972640</g:id>
       <g:title>BMW 328i</g:title>
       <g:description>2013/2014 - 72.359 km - Automático - Flex</g:description>
@@ -65,18 +20,18 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>1211948</g:id>
-      <g:title>BMW 745iA</g:title>
-      <g:description>2002/2003 - 72.480 km - Automático - Gasolina</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1211948</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1211948/1778087851478-5137768_1_B_5784b9650a.jpeg</g:image_link>
-      <g:price>49900.00 BRL</g:price>
+      <g:id>1022382</g:id>
+      <g:title>Kia Sorento</g:title>
+      <g:description>2016/2016 - 153.500 km - Automático - Gasolina</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1022382</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1022382/1778087856284-8014669_14_B_27e5d9acea.jpeg</g:image_link>
+      <g:price>107900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>BMW</g:brand>
+      <g:brand>Kia</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2003</g:year>
-      <g:mileage>72480 km</g:mileage>
+      <g:year>2016</g:year>
+      <g:mileage>153500 km</g:mileage>
       <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
@@ -110,6 +65,51 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
+      <g:id>1211948</g:id>
+      <g:title>BMW 745iA</g:title>
+      <g:description>2002/2003 - 72.480 km - Automático - Gasolina</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1211948</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1211948/1778087851478-5137768_1_B_5784b9650a.jpeg</g:image_link>
+      <g:price>49900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>BMW</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2003</g:year>
+      <g:mileage>72480 km</g:mileage>
+      <g:fuel_type>Gasolina</g:fuel_type>
+    </item>
+    <item>
+      <g:id>906924</g:id>
+      <g:title>Jeep Compass</g:title>
+      <g:description>2018/2018 - 95.600 km - Automático - Diesel</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=906924</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/906924/1775585581679-7872719_16_B_5ec29de117.jpeg</g:image_link>
+      <g:price>112900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2018</g:year>
+      <g:mileage>95600 km</g:mileage>
+      <g:fuel_type>Diesel</g:fuel_type>
+    </item>
+    <item>
+      <g:id>988551</g:id>
+      <g:title>Honda Civic</g:title>
+      <g:description>2018/2019 - 106.000 km - Automático - Gasolina</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=988551</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/988551/1778087863075-7942729_11_B_346a982fa2.jpeg</g:image_link>
+      <g:price>134900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Honda</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2019</g:year>
+      <g:mileage>106000 km</g:mileage>
+      <g:fuel_type>Gasolina</g:fuel_type>
+    </item>
+    <item>
       <g:id>965060</g:id>
       <g:title>Ford Focus</g:title>
       <g:description>2016/2016 - 81.100 km - Automatizado - Flex</g:description>
@@ -138,21 +138,6 @@
       <g:year>2011</g:year>
       <g:mileage>155449 km</g:mileage>
       <g:fuel_type>FLEX</g:fuel_type>
-    </item>
-    <item>
-      <g:id>893811</g:id>
-      <g:title>BMW X2</g:title>
-      <g:description>2020/2021 - 98.340 km - Automatizado - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=893811</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/893811/1775585579874-7852997_11_B_01a01ae9d8.jpeg</g:image_link>
-      <g:price>159900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>BMW</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2021</g:year>
-      <g:mileage>98340 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
       <g:id>1180027</g:id>
@@ -185,6 +170,21 @@
       <g:fuel_type>Híbrido</g:fuel_type>
     </item>
     <item>
+      <g:id>893811</g:id>
+      <g:title>BMW X2</g:title>
+      <g:description>2020/2021 - 98.340 km - Automatizado - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=893811</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/893811/1775585579874-7852997_11_B_01a01ae9d8.jpeg</g:image_link>
+      <g:price>159900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>BMW</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2021</g:year>
+      <g:mileage>98340 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
       <g:id>38912</g:id>
       <g:title>Volkswagen Voyage</g:title>
       <g:description>2021/2022 - 115.400 km - Mecânico - Flex</g:description>
@@ -198,21 +198,6 @@
       <g:year>2022</g:year>
       <g:mileage>115400 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>38907</g:id>
-      <g:title>Volkswagen Caravelle</g:title>
-      <g:description>1988/1988 - 300 km - Mecânico - Diesel</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=38907</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/38907/1772567833661-7279165_16_B_0458524a50.jpeg</g:image_link>
-      <g:price>39900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>1988</g:year>
-      <g:mileage>300 km</g:mileage>
-      <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
       <g:id>38908</g:id>
@@ -245,6 +230,21 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
+      <g:id>994082</g:id>
+      <g:title>Ford Fusion</g:title>
+      <g:description>2013/2014 - 170.000 km - Automático - Gasolina</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=994082</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/994082/1778087865199-7955615_13_B_7da902cfc2.jpeg</g:image_link>
+      <g:price>74900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Ford</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2014</g:year>
+      <g:mileage>170000 km</g:mileage>
+      <g:fuel_type>Gasolina</g:fuel_type>
+    </item>
+    <item>
       <g:id>878116</g:id>
       <g:title>Kia Sportage</g:title>
       <g:description>2013/2013 - 135.275 km - Automático - Flex</g:description>
@@ -273,21 +273,6 @@
       <g:year>2026</g:year>
       <g:mileage>15608 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>994082</g:id>
-      <g:title>Ford Fusion</g:title>
-      <g:description>2013/2014 - 170.000 km - Automático - Gasolina</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=994082</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/994082/1778087865199-7955615_13_B_7da902cfc2.jpeg</g:image_link>
-      <g:price>74900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2014</g:year>
-      <g:mileage>170000 km</g:mileage>
-      <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
       <g:id>38902</g:id>
@@ -350,21 +335,6 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>1215986</g:id>
-      <g:title>Volkswagen T-Cross</g:title>
-      <g:description>2022/2022 - 55.000 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1215986</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1215986/1778094560627-8052384_8_B_6b1f360029.jpeg</g:image_link>
-      <g:price>97900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2022</g:year>
-      <g:mileage>55000 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
       <g:id>954136</g:id>
       <g:title>Mercedes-Benz C-180</g:title>
       <g:description>2013/2014 - 194.214 km - Automático - Gasolina</g:description>
@@ -378,6 +348,21 @@
       <g:year>2014</g:year>
       <g:mileage>194214 km</g:mileage>
       <g:fuel_type>Gasolina</g:fuel_type>
+    </item>
+    <item>
+      <g:id>1215986</g:id>
+      <g:title>Volkswagen T-Cross</g:title>
+      <g:description>2022/2022 - 55.000 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1215986</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1215986/1778094560627-8052384_8_B_6b1f360029.jpeg</g:image_link>
+      <g:price>97900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2022</g:year>
+      <g:mileage>55000 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
       <g:id>38911</g:id>
