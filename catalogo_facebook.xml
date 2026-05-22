@@ -65,19 +65,19 @@
       <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
-      <g:id>1180027</g:id>
-      <g:title>Volkswagen Tiguan</g:title>
-      <g:description>2013/2014 - 93.000 km - Automático - Gasolina</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1180027</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1180027/1779105604059-8023906_9_B_ddd33b2107.jpeg</g:image_link>
-      <g:price>66900.00 BRL</g:price>
+      <g:id>965060</g:id>
+      <g:title>Ford Focus</g:title>
+      <g:description>2016/2016 - 81.100 km - Automatizado - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=965060</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/965060/1778874804940-7908869_11_B_08575c2820.jpeg</g:image_link>
+      <g:price>58900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
+      <g:brand>Ford</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2014</g:year>
-      <g:mileage>93000 km</g:mileage>
-      <g:fuel_type>Gasolina</g:fuel_type>
+      <g:year>2016</g:year>
+      <g:mileage>81100 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
       <g:id>973015</g:id>
@@ -110,6 +110,21 @@
       <g:fuel_type>Híbrido</g:fuel_type>
     </item>
     <item>
+      <g:id>1180027</g:id>
+      <g:title>Volkswagen Tiguan</g:title>
+      <g:description>2013/2014 - 93.000 km - Automático - Gasolina</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1180027</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1180027/1779105604059-8023906_9_B_ddd33b2107.jpeg</g:image_link>
+      <g:price>66900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2014</g:year>
+      <g:mileage>93000 km</g:mileage>
+      <g:fuel_type>Gasolina</g:fuel_type>
+    </item>
+    <item>
       <g:id>1478420</g:id>
       <g:title>Toyota Corolla Cross</g:title>
       <g:description>2024/2025 - 42.164 km - Automático - Flex</g:description>
@@ -122,21 +137,6 @@
       <g:google_product_category>916</g:google_product_category>
       <g:year>2025</g:year>
       <g:mileage>42164 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>965060</g:id>
-      <g:title>Ford Focus</g:title>
-      <g:description>2016/2016 - 81.100 km - Automatizado - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=965060</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/965060/1778874804940-7908869_11_B_08575c2820.jpeg</g:image_link>
-      <g:price>58900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2016</g:year>
-      <g:mileage>81100 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
@@ -339,8 +339,8 @@
       <g:title>Hyundai Creta</g:title>
       <g:description>2023/2024 - 42.288 km - Automático - Flex</g:description>
       <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=38927</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/38927/1779105425262-7670915_9_B_36d103b514.jpeg</g:image_link>
-      <g:price>119900.00 BRL</g:price>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/38927/1779377410274-7670915_9_B_36d103b514.jpeg</g:image_link>
+      <g:price>124900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
       <g:brand>Hyundai</g:brand>
