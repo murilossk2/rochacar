@@ -20,12 +20,27 @@
       <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
+      <g:id>1022382</g:id>
+      <g:title>Kia Sorento</g:title>
+      <g:description>2016/2016 - 153.500 km - Automático - Gasolina</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1022382</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1022382/1779452015692-8014669_14_B_27e5d9acea.jpeg</g:image_link>
+      <g:price>99900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Kia</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2016</g:year>
+      <g:mileage>153500 km</g:mileage>
+      <g:fuel_type>Gasolina</g:fuel_type>
+    </item>
+    <item>
       <g:id>1003223</g:id>
       <g:title>Renault Sandero</g:title>
       <g:description>2010/2011 - 136.245 km - Mecânico - Flex</g:description>
       <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1003223</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1003223/1779546201908-7988940_10_B_b9e800760a.jpeg</g:image_link>
-      <g:price>35900.00 BRL</g:price>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1003223/1779723688176-7988940_10_B_b9e800760a.jpeg</g:image_link>
+      <g:price>31900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
       <g:brand>Renault</g:brand>
@@ -50,19 +65,19 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>1022382</g:id>
-      <g:title>Kia Sorento</g:title>
-      <g:description>2016/2016 - 153.500 km - Automático - Gasolina</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1022382</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1022382/1779452015692-8014669_14_B_27e5d9acea.jpeg</g:image_link>
-      <g:price>99900.00 BRL</g:price>
+      <g:id>1478420</g:id>
+      <g:title>Toyota Corolla Cross</g:title>
+      <g:description>2024/2025 - 42.164 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1478420</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1478420/1778874687565-8090365_0_B_084977a77c.jpeg</g:image_link>
+      <g:price>166900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Kia</g:brand>
+      <g:brand>Toyota</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2016</g:year>
-      <g:mileage>153500 km</g:mileage>
-      <g:fuel_type>Gasolina</g:fuel_type>
+      <g:year>2025</g:year>
+      <g:mileage>42164 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
       <g:id>1073004</g:id>
@@ -93,21 +108,6 @@
       <g:year>2014</g:year>
       <g:mileage>93000 km</g:mileage>
       <g:fuel_type>Gasolina</g:fuel_type>
-    </item>
-    <item>
-      <g:id>1478420</g:id>
-      <g:title>Toyota Corolla Cross</g:title>
-      <g:description>2024/2025 - 42.164 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1478420</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1478420/1778874687565-8090365_0_B_084977a77c.jpeg</g:image_link>
-      <g:price>166900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Toyota</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2025</g:year>
-      <g:mileage>42164 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
       <g:id>965060</g:id>
@@ -170,6 +170,21 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
+      <g:id>878116</g:id>
+      <g:title>Kia Sportage</g:title>
+      <g:description>2013/2013 - 135.275 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=878116</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/878116/1779452211695-7836429_7_B_539a1c9329.jpeg</g:image_link>
+      <g:price>67900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Kia</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2013</g:year>
+      <g:mileage>135275 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
       <g:id>1669009</g:id>
       <g:title>Toyota Hilux SW4</g:title>
       <g:description>2008/2008 - 265.000 km - Automático - Diesel</g:description>
@@ -213,36 +228,6 @@
       <g:year>2014</g:year>
       <g:mileage>170000 km</g:mileage>
       <g:fuel_type>Gasolina</g:fuel_type>
-    </item>
-    <item>
-      <g:id>878116</g:id>
-      <g:title>Kia Sportage</g:title>
-      <g:description>2013/2013 - 135.275 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=878116</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/878116/1779452211695-7836429_7_B_539a1c9329.jpeg</g:image_link>
-      <g:price>67900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Kia</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2013</g:year>
-      <g:mileage>135275 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>898515</g:id>
-      <g:title>Volkswagen T-Cross</g:title>
-      <g:description>2025/2026 - 15.608 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=898515</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/898515/1775585470763-7860261_11_B_1a3ca9eeae.jpeg</g:image_link>
-      <g:price>131900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2026</g:year>
-      <g:mileage>15608 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
       <g:id>38902</g:id>
@@ -305,21 +290,6 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>1669426</g:id>
-      <g:title>Volkswagen Amarok</g:title>
-      <g:description>2023/2023 - 119.818 km - Automático - Diesel</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1669426</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1669426/1779460694784-8097087_13_B_8075f03cbf.jpeg</g:image_link>
-      <g:price>214900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2023</g:year>
-      <g:mileage>119818 km</g:mileage>
-      <g:fuel_type>Diesel</g:fuel_type>
-    </item>
-    <item>
       <g:id>1215986</g:id>
       <g:title>Volkswagen T-Cross</g:title>
       <g:description>2022/2022 - 55.000 km - Automático - Flex</g:description>
@@ -333,6 +303,21 @@
       <g:year>2022</g:year>
       <g:mileage>55000 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
+      <g:id>1669426</g:id>
+      <g:title>Volkswagen Amarok</g:title>
+      <g:description>2023/2023 - 119.818 km - Automático - Diesel</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1669426</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1669426/1779460694784-8097087_13_B_8075f03cbf.jpeg</g:image_link>
+      <g:price>214900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2023</g:year>
+      <g:mileage>119818 km</g:mileage>
+      <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
       <g:id>954136</g:id>
