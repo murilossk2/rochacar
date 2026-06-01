@@ -5,6 +5,21 @@
     <link>https://rochacarveiculos.com.br</link>
     <description>Catálogo de veículos usados</description>
     <item>
+      <g:id>1003223</g:id>
+      <g:title>Renault Sandero</g:title>
+      <g:description>2010/2011 - 136.245 km - Mecânico - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1003223</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1003223/1779805740614-7988940_10_B_b9e800760a.jpeg</g:image_link>
+      <g:price>31900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Renault</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2011</g:year>
+      <g:mileage>136245 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
       <g:id>1022382</g:id>
       <g:title>Kia Sorento</g:title>
       <g:description>2016/2016 - 153.500 km - Automático - Gasolina</g:description>
@@ -35,34 +50,19 @@
       <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
-      <g:id>1003223</g:id>
-      <g:title>Renault Sandero</g:title>
-      <g:description>2010/2011 - 136.245 km - Mecânico - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1003223</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1003223/1779805740614-7988940_10_B_b9e800760a.jpeg</g:image_link>
-      <g:price>31900.00 BRL</g:price>
+      <g:id>965060</g:id>
+      <g:title>Ford Focus</g:title>
+      <g:description>2016/2016 - 81.100 km - Automatizado - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=965060</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/965060/1779806051737-7908869_11_B_08575c2820.jpeg</g:image_link>
+      <g:price>61900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Renault</g:brand>
+      <g:brand>Ford</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2011</g:year>
-      <g:mileage>136245 km</g:mileage>
+      <g:year>2016</g:year>
+      <g:mileage>81100 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>1073004</g:id>
-      <g:title>Toyota Corolla Cross</g:title>
-      <g:description>2021/2022 - 95.225 km - Automático - Híbrido</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1073004</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1073004/1777560173322-7479899_11_B_e139113259.jpeg</g:image_link>
-      <g:price>134900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Toyota</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2022</g:year>
-      <g:mileage>95225 km</g:mileage>
-      <g:fuel_type>Híbrido</g:fuel_type>
     </item>
     <item>
       <g:id>973015</g:id>
@@ -110,19 +110,19 @@
       <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
-      <g:id>965060</g:id>
-      <g:title>Ford Focus</g:title>
-      <g:description>2016/2016 - 81.100 km - Automatizado - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=965060</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/965060/1779806051737-7908869_11_B_08575c2820.jpeg</g:image_link>
-      <g:price>61900.00 BRL</g:price>
+      <g:id>1073004</g:id>
+      <g:title>Toyota Corolla Cross</g:title>
+      <g:description>2021/2022 - 95.225 km - Automático - Híbrido</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1073004</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1073004/1777560173322-7479899_11_B_e139113259.jpeg</g:image_link>
+      <g:price>134900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Ford</g:brand>
+      <g:brand>Toyota</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2016</g:year>
-      <g:mileage>81100 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
+      <g:year>2022</g:year>
+      <g:mileage>95225 km</g:mileage>
+      <g:fuel_type>Híbrido</g:fuel_type>
     </item>
     <item>
       <g:id>38912</g:id>
@@ -170,19 +170,34 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>1816374</g:id>
-      <g:title>Renault Kangoo</g:title>
-      <g:description>2025/2026 - 7.200 km - Mecânico - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1816374</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1816374/1779986295724-8121522_4_B_7af5944147.jpeg</g:image_link>
-      <g:price>104900.00 BRL</g:price>
+      <g:id>1478352</g:id>
+      <g:title>Fiat Toro</g:title>
+      <g:description>2023/2023 - 108.787 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1478352</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1478352/1780152812423-8087611_0_B_860f1a82c8.jpeg</g:image_link>
+      <g:price>109900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Renault</g:brand>
+      <g:brand>Fiat</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2026</g:year>
-      <g:mileage>7200 km</g:mileage>
+      <g:year>2023</g:year>
+      <g:mileage>108787 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
+      <g:id>994082</g:id>
+      <g:title>Ford Fusion</g:title>
+      <g:description>2013/2014 - 170.000 km - Automático - Gasolina</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=994082</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/994082/1778087865199-7955615_13_B_7da902cfc2.jpeg</g:image_link>
+      <g:price>74900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Ford</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2014</g:year>
+      <g:mileage>170000 km</g:mileage>
+      <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
       <g:id>1669009</g:id>
@@ -200,18 +215,18 @@
       <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
-      <g:id>1478352</g:id>
-      <g:title>Fiat Toro</g:title>
-      <g:description>2023/2023 - 108.787 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1478352</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1478352/1780152812423-8087611_0_B_860f1a82c8.jpeg</g:image_link>
-      <g:price>109900.00 BRL</g:price>
+      <g:id>1816374</g:id>
+      <g:title>Renault Kangoo</g:title>
+      <g:description>2025/2026 - 7.200 km - Mecânico - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1816374</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1816374/1779986295724-8121522_4_B_7af5944147.jpeg</g:image_link>
+      <g:price>104900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Fiat</g:brand>
+      <g:brand>Renault</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2023</g:year>
-      <g:mileage>108787 km</g:mileage>
+      <g:year>2026</g:year>
+      <g:mileage>7200 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
@@ -228,21 +243,6 @@
       <g:year>2018</g:year>
       <g:mileage>169891 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>994082</g:id>
-      <g:title>Ford Fusion</g:title>
-      <g:description>2013/2014 - 170.000 km - Automático - Gasolina</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=994082</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/994082/1778087865199-7955615_13_B_7da902cfc2.jpeg</g:image_link>
-      <g:price>74900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2014</g:year>
-      <g:mileage>170000 km</g:mileage>
-      <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
       <g:id>878116</g:id>
