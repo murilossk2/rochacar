@@ -5,21 +5,6 @@
     <link>https://rochacarveiculos.com.br</link>
     <description>Catálogo de veículos usados</description>
     <item>
-      <g:id>906924</g:id>
-      <g:title>Jeep Compass</g:title>
-      <g:description>2018/2018 - 95.600 km - Automático - Diesel</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=906924</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/906924/1779452444710-7872719_16_B_5ec29de117.jpeg</g:image_link>
-      <g:price>109900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Jeep</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2018</g:year>
-      <g:mileage>95600 km</g:mileage>
-      <g:fuel_type>Diesel</g:fuel_type>
-    </item>
-    <item>
       <g:id>1003223</g:id>
       <g:title>Renault Sandero</g:title>
       <g:description>2010/2011 - 136.245 km - Mecânico - Flex</g:description>
@@ -33,6 +18,21 @@
       <g:year>2011</g:year>
       <g:mileage>136245 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
+      <g:id>906924</g:id>
+      <g:title>Jeep Compass</g:title>
+      <g:description>2018/2018 - 95.600 km - Automático - Diesel</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=906924</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/906924/1779452444710-7872719_16_B_5ec29de117.jpeg</g:image_link>
+      <g:price>109900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2018</g:year>
+      <g:mileage>95600 km</g:mileage>
+      <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
       <g:id>1022382</g:id>
@@ -80,19 +80,19 @@
       <g:fuel_type>FLEX</g:fuel_type>
     </item>
     <item>
-      <g:id>1478420</g:id>
-      <g:title>Toyota Corolla Cross</g:title>
-      <g:description>2024/2025 - 42.164 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1478420</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1478420/1779976049665-8090365_0_B_084977a77c.jpeg</g:image_link>
-      <g:price>166900.00 BRL</g:price>
+      <g:id>1180027</g:id>
+      <g:title>Volkswagen Tiguan</g:title>
+      <g:description>2013/2014 - 93.000 km - Automático - Gasolina</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1180027</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1180027/1779455380684-8023906_9_B_ddd33b2107.jpeg</g:image_link>
+      <g:price>66900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Toyota</g:brand>
+      <g:brand>Volkswagen</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2025</g:year>
-      <g:mileage>42164 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
+      <g:year>2014</g:year>
+      <g:mileage>93000 km</g:mileage>
+      <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
       <g:id>1073004</g:id>
@@ -110,19 +110,19 @@
       <g:fuel_type>Híbrido</g:fuel_type>
     </item>
     <item>
-      <g:id>1180027</g:id>
-      <g:title>Volkswagen Tiguan</g:title>
-      <g:description>2013/2014 - 93.000 km - Automático - Gasolina</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1180027</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1180027/1779455380684-8023906_9_B_ddd33b2107.jpeg</g:image_link>
-      <g:price>66900.00 BRL</g:price>
+      <g:id>1478420</g:id>
+      <g:title>Toyota Corolla Cross</g:title>
+      <g:description>2024/2025 - 42.164 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1478420</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1478420/1779976049665-8090365_0_B_084977a77c.jpeg</g:image_link>
+      <g:price>166900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
+      <g:brand>Toyota</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2014</g:year>
-      <g:mileage>93000 km</g:mileage>
-      <g:fuel_type>Gasolina</g:fuel_type>
+      <g:year>2025</g:year>
+      <g:mileage>42164 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
       <g:id>38912</g:id>
@@ -137,21 +137,6 @@
       <g:google_product_category>916</g:google_product_category>
       <g:year>2022</g:year>
       <g:mileage>115400 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>1917289</g:id>
-      <g:title>Toyota Corolla</g:title>
-      <g:description>2018/2019 - 120.683 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1917289</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1917289/1780346025160-8131321_9_B_ee3a3a9095.jpeg</g:image_link>
-      <g:price>103900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Toyota</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2019</g:year>
-      <g:mileage>120683 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
@@ -170,6 +155,21 @@
       <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
+      <g:id>1917289</g:id>
+      <g:title>Toyota Corolla</g:title>
+      <g:description>2018/2019 - 120.683 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1917289</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1917289/1780346025160-8131321_9_B_ee3a3a9095.jpeg</g:image_link>
+      <g:price>103900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Toyota</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2019</g:year>
+      <g:mileage>120683 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
       <g:id>38923</g:id>
       <g:title>Ford Fiesta</g:title>
       <g:description>2013/2014 - 118.760 km - Mecânico - Flex</g:description>
@@ -182,21 +182,6 @@
       <g:google_product_category>916</g:google_product_category>
       <g:year>2014</g:year>
       <g:mileage>118760 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>1478352</g:id>
-      <g:title>Fiat Toro</g:title>
-      <g:description>2023/2023 - 108.787 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1478352</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1478352/1780152812423-8087611_0_B_860f1a82c8.jpeg</g:image_link>
-      <g:price>109900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Fiat</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2023</g:year>
-      <g:mileage>108787 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
@@ -213,21 +198,6 @@
       <g:year>2008</g:year>
       <g:mileage>265000 km</g:mileage>
       <g:fuel_type>Diesel</g:fuel_type>
-    </item>
-    <item>
-      <g:id>994082</g:id>
-      <g:title>Ford Fusion</g:title>
-      <g:description>2013/2014 - 170.000 km - Automático - Gasolina</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=994082</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/994082/1778087865199-7955615_13_B_7da902cfc2.jpeg</g:image_link>
-      <g:price>74900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2014</g:year>
-      <g:mileage>170000 km</g:mileage>
-      <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
       <g:id>1816374</g:id>
@@ -273,6 +243,36 @@
       <g:year>2013</g:year>
       <g:mileage>135275 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
+      <g:id>1478352</g:id>
+      <g:title>Fiat Toro</g:title>
+      <g:description>2023/2023 - 108.787 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1478352</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1478352/1780152812423-8087611_0_B_860f1a82c8.jpeg</g:image_link>
+      <g:price>109900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Fiat</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2023</g:year>
+      <g:mileage>108787 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
+      <g:id>994082</g:id>
+      <g:title>Ford Fusion</g:title>
+      <g:description>2013/2014 - 170.000 km - Automático - Gasolina</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=994082</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/994082/1778087865199-7955615_13_B_7da902cfc2.jpeg</g:image_link>
+      <g:price>74900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Ford</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2014</g:year>
+      <g:mileage>170000 km</g:mileage>
+      <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
       <g:id>38902</g:id>
