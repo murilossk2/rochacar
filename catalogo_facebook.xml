@@ -5,19 +5,19 @@
     <link>https://rochacarveiculos.com.br</link>
     <description>Catálogo de veículos usados</description>
     <item>
-      <g:id>1003223</g:id>
-      <g:title>Renault Sandero</g:title>
-      <g:description>2010/2011 - 136.245 km - Mecânico - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1003223</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1003223/1780757338406-7988940_10_B_b9e800760a.jpeg</g:image_link>
-      <g:price>30900.00 BRL</g:price>
+      <g:id>906924</g:id>
+      <g:title>Jeep Compass</g:title>
+      <g:description>2018/2018 - 95.600 km - Automático - Diesel</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=906924</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/906924/1779452444710-7872719_16_B_5ec29de117.jpeg</g:image_link>
+      <g:price>109900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Renault</g:brand>
+      <g:brand>Jeep</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2011</g:year>
-      <g:mileage>136245 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
+      <g:year>2018</g:year>
+      <g:mileage>95600 km</g:mileage>
+      <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
       <g:id>1022382</g:id>
@@ -35,19 +35,19 @@
       <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
-      <g:id>906924</g:id>
-      <g:title>Jeep Compass</g:title>
-      <g:description>2018/2018 - 95.600 km - Automático - Diesel</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=906924</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/906924/1779452444710-7872719_16_B_5ec29de117.jpeg</g:image_link>
-      <g:price>109900.00 BRL</g:price>
+      <g:id>1003223</g:id>
+      <g:title>Renault Sandero</g:title>
+      <g:description>2010/2011 - 136.245 km - Mecânico - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1003223</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1003223/1780757338406-7988940_10_B_b9e800760a.jpeg</g:image_link>
+      <g:price>30900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Jeep</g:brand>
+      <g:brand>Renault</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2018</g:year>
-      <g:mileage>95600 km</g:mileage>
-      <g:fuel_type>Diesel</g:fuel_type>
+      <g:year>2011</g:year>
+      <g:mileage>136245 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
       <g:id>965060</g:id>
@@ -80,21 +80,6 @@
       <g:fuel_type>FLEX</g:fuel_type>
     </item>
     <item>
-      <g:id>1478420</g:id>
-      <g:title>Toyota Corolla Cross</g:title>
-      <g:description>2024/2025 - 42.164 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1478420</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1478420/1779976049665-8090365_0_B_084977a77c.jpeg</g:image_link>
-      <g:price>166900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Toyota</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2025</g:year>
-      <g:mileage>42164 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
       <g:id>1073004</g:id>
       <g:title>Toyota Corolla Cross</g:title>
       <g:description>2021/2022 - 95.225 km - Automático - Híbrido</g:description>
@@ -125,11 +110,26 @@
       <g:fuel_type>Gasolina</g:fuel_type>
     </item>
     <item>
+      <g:id>1478420</g:id>
+      <g:title>Toyota Corolla Cross</g:title>
+      <g:description>2024/2025 - 42.164 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1478420</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1478420/1779976049665-8090365_0_B_084977a77c.jpeg</g:image_link>
+      <g:price>166900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Toyota</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2025</g:year>
+      <g:mileage>42164 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
       <g:id>38912</g:id>
       <g:title>Volkswagen Voyage</g:title>
       <g:description>2021/2022 - 115.400 km - Mecânico - Flex</g:description>
       <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=38912</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/38912/1780757352039-7476054_13_B_17f39477b7.jpeg</g:image_link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/38912/1780924995632-7476054_13_B_17f39477b7.jpeg</g:image_link>
       <g:price>58900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
@@ -137,6 +137,21 @@
       <g:google_product_category>916</g:google_product_category>
       <g:year>2022</g:year>
       <g:mileage>115400 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
+      <g:id>1917289</g:id>
+      <g:title>Toyota Corolla</g:title>
+      <g:description>2018/2019 - 120.683 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1917289</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1917289/1780757349352-8131321_9_B_ee3a3a9095.jpeg</g:image_link>
+      <g:price>103900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Toyota</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2019</g:year>
+      <g:mileage>120683 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
@@ -153,21 +168,6 @@
       <g:year>2013</g:year>
       <g:mileage>156199 km</g:mileage>
       <g:fuel_type>Gasolina</g:fuel_type>
-    </item>
-    <item>
-      <g:id>1917289</g:id>
-      <g:title>Toyota Corolla</g:title>
-      <g:description>2018/2019 - 120.683 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1917289</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1917289/1780757349352-8131321_9_B_ee3a3a9095.jpeg</g:image_link>
-      <g:price>103900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Toyota</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2019</g:year>
-      <g:mileage>120683 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
       <g:id>38923</g:id>
@@ -234,7 +234,7 @@
       <g:title>Fiat Mobi</g:title>
       <g:description>2017/2018 - 169.891 km - Mecânico - Flex</g:description>
       <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1857956</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1857956/1780086107499-8058584_3_B_53381f8eac.jpeg</g:image_link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1857956/1780935310957-8058584_3_B_53381f8eac.jpeg</g:image_link>
       <g:price>43900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
@@ -363,6 +363,21 @@
       <g:year>2014</g:year>
       <g:mileage>194214 km</g:mileage>
       <g:fuel_type>Gasolina</g:fuel_type>
+    </item>
+    <item>
+      <g:id>2011243</g:id>
+      <g:title>BMW 328i</g:title>
+      <g:description>2016/2017 - 92.105 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=2011243</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/2011243/1780945925771-8166150_6_B_3a5bff88f6.jpeg</g:image_link>
+      <g:price>143900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>BMW</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2017</g:year>
+      <g:mileage>92105 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
       <g:id>38927</g:id>
