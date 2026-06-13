@@ -65,21 +65,6 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>1478420</g:id>
-      <g:title>Toyota Corolla Cross</g:title>
-      <g:description>2024/2025 - 42.164 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1478420</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1478420/1779976049665-8090365_0_B_084977a77c.jpeg</g:image_link>
-      <g:price>166900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Toyota</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2025</g:year>
-      <g:mileage>42164 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
       <g:id>973015</g:id>
       <g:title>Kia SOUL</g:title>
       <g:description>2010/2011 - 155.449 km - Automático - FLEX</g:description>
@@ -93,6 +78,21 @@
       <g:year>2011</g:year>
       <g:mileage>155449 km</g:mileage>
       <g:fuel_type>FLEX</g:fuel_type>
+    </item>
+    <item>
+      <g:id>1478420</g:id>
+      <g:title>Toyota Corolla Cross</g:title>
+      <g:description>2024/2025 - 42.164 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1478420</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1478420/1779976049665-8090365_0_B_084977a77c.jpeg</g:image_link>
+      <g:price>166900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Toyota</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2025</g:year>
+      <g:mileage>42164 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
       <g:id>1073004</g:id>
@@ -170,34 +170,19 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>38923</g:id>
-      <g:title>Ford Fiesta</g:title>
-      <g:description>2013/2014 - 118.760 km - Mecânico - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=38923</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/38923/1775585360122-7651205_9_B_0dad5475cc.jpeg</g:image_link>
-      <g:price>34900.00 BRL</g:price>
+      <g:id>1478352</g:id>
+      <g:title>Fiat Toro</g:title>
+      <g:description>2023/2023 - 108.787 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1478352</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1478352/1780152812423-8087611_0_B_860f1a82c8.jpeg</g:image_link>
+      <g:price>109900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Ford</g:brand>
+      <g:brand>Fiat</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2014</g:year>
-      <g:mileage>118760 km</g:mileage>
+      <g:year>2023</g:year>
+      <g:mileage>108787 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
-      <g:id>1669009</g:id>
-      <g:title>Toyota Hilux SW4</g:title>
-      <g:description>2008/2008 - 265.000 km - Automático - Diesel</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1669009</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1669009/1781018241864-8081278_8_B_702e5b09b3.jpeg</g:image_link>
-      <g:price>107900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Toyota</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2008</g:year>
-      <g:mileage>265000 km</g:mileage>
-      <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
       <g:id>1816374</g:id>
@@ -230,19 +215,19 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>1478352</g:id>
-      <g:title>Fiat Toro</g:title>
-      <g:description>2023/2023 - 108.787 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1478352</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1478352/1780152812423-8087611_0_B_860f1a82c8.jpeg</g:image_link>
-      <g:price>109900.00 BRL</g:price>
+      <g:id>1669009</g:id>
+      <g:title>Toyota Hilux SW4</g:title>
+      <g:description>2008/2008 - 265.000 km - Automático - Diesel</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1669009</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1669009/1781018241864-8081278_8_B_702e5b09b3.jpeg</g:image_link>
+      <g:price>107900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Fiat</g:brand>
+      <g:brand>Toyota</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2023</g:year>
-      <g:mileage>108787 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
+      <g:year>2008</g:year>
+      <g:mileage>265000 km</g:mileage>
+      <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
       <g:id>994082</g:id>
@@ -279,7 +264,7 @@
       <g:title>Volkswagen Gol</g:title>
       <g:description>2014/2015 - 194.000 km - Mecânico - Flex</g:description>
       <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=38902</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/38902/1777895287024-7181932_14_B_ab9abf2012.jpeg</g:image_link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/38902/1781266059095-7181932_14_B_ab9abf2012.jpeg</g:image_link>
       <g:price>37900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
@@ -335,21 +320,6 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>1669426</g:id>
-      <g:title>Volkswagen Amarok</g:title>
-      <g:description>2023/2023 - 119.818 km - Automático - Diesel</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1669426</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1669426/1779976055016-8097087_13_B_8075f03cbf.jpeg</g:image_link>
-      <g:price>214900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2023</g:year>
-      <g:mileage>119818 km</g:mileage>
-      <g:fuel_type>Diesel</g:fuel_type>
-    </item>
-    <item>
       <g:id>2011243</g:id>
       <g:title>BMW 328i</g:title>
       <g:description>2016/2017 - 92.105 km - Automático - Flex</g:description>
@@ -363,6 +333,21 @@
       <g:year>2017</g:year>
       <g:mileage>92105 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
+      <g:id>1669426</g:id>
+      <g:title>Volkswagen Amarok</g:title>
+      <g:description>2023/2023 - 119.818 km - Automático - Diesel</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1669426</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1669426/1779976055016-8097087_13_B_8075f03cbf.jpeg</g:image_link>
+      <g:price>214900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2023</g:year>
+      <g:mileage>119818 km</g:mileage>
+      <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
       <g:id>954136</g:id>
