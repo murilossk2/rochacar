@@ -320,21 +320,6 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>1669426</g:id>
-      <g:title>Volkswagen Amarok</g:title>
-      <g:description>2023/2023 - 119.818 km - Automático - Diesel</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1669426</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1669426/1779976055016-8097087_13_B_8075f03cbf.jpeg</g:image_link>
-      <g:price>214900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Volkswagen</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2023</g:year>
-      <g:mileage>119818 km</g:mileage>
-      <g:fuel_type>Diesel</g:fuel_type>
-    </item>
-    <item>
       <g:id>2011243</g:id>
       <g:title>BMW 328i</g:title>
       <g:description>2016/2017 - 92.105 km - Automático - Flex</g:description>
@@ -348,6 +333,21 @@
       <g:year>2017</g:year>
       <g:mileage>92105 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
+      <g:id>1669426</g:id>
+      <g:title>Volkswagen Amarok</g:title>
+      <g:description>2023/2023 - 119.818 km - Automático - Diesel</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1669426</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1669426/1779976055016-8097087_13_B_8075f03cbf.jpeg</g:image_link>
+      <g:price>214900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Volkswagen</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2023</g:year>
+      <g:mileage>119818 km</g:mileage>
+      <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
       <g:id>954136</g:id>
