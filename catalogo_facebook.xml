@@ -5,6 +5,21 @@
     <link>https://rochacarveiculos.com.br</link>
     <description>Catálogo de veículos usados</description>
     <item>
+      <g:id>1003223</g:id>
+      <g:title>Renault Sandero</g:title>
+      <g:description>2010/2011 - 136.245 km - Mecânico - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1003223</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1003223/1781359284398-7988940_10_B_b9e800760a.jpeg</g:image_link>
+      <g:price>30900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Renault</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2011</g:year>
+      <g:mileage>136245 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
       <g:id>1022382</g:id>
       <g:title>Kia Sorento</g:title>
       <g:description>2016/2016 - 153.500 km - Automático - Gasolina</g:description>
@@ -35,21 +50,6 @@
       <g:fuel_type>Diesel</g:fuel_type>
     </item>
     <item>
-      <g:id>1003223</g:id>
-      <g:title>Renault Sandero</g:title>
-      <g:description>2010/2011 - 136.245 km - Mecânico - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1003223</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1003223/1781359284398-7988940_10_B_b9e800760a.jpeg</g:image_link>
-      <g:price>30900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Renault</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2011</g:year>
-      <g:mileage>136245 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
-    </item>
-    <item>
       <g:id>1478420</g:id>
       <g:title>Toyota Corolla Cross</g:title>
       <g:description>2024/2025 - 42.164 km - Automático - Flex</g:description>
@@ -62,6 +62,21 @@
       <g:google_product_category>916</g:google_product_category>
       <g:year>2025</g:year>
       <g:mileage>42164 km</g:mileage>
+      <g:fuel_type>Flex</g:fuel_type>
+    </item>
+    <item>
+      <g:id>965060</g:id>
+      <g:title>Ford Focus</g:title>
+      <g:description>2016/2016 - 81.100 km - Automatizado - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=965060</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/965060/1781359228041-7908869_11_B_08575c2820.jpeg</g:image_link>
+      <g:price>57900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Ford</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2016</g:year>
+      <g:mileage>81100 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
@@ -78,21 +93,6 @@
       <g:year>2022</g:year>
       <g:mileage>95225 km</g:mileage>
       <g:fuel_type>Híbrido</g:fuel_type>
-    </item>
-    <item>
-      <g:id>965060</g:id>
-      <g:title>Ford Focus</g:title>
-      <g:description>2016/2016 - 81.100 km - Automatizado - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=965060</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/965060/1781359228041-7908869_11_B_08575c2820.jpeg</g:image_link>
-      <g:price>57900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>Ford</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2016</g:year>
-      <g:mileage>81100 km</g:mileage>
-      <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
       <g:id>973015</g:id>
@@ -125,21 +125,6 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>1823454</g:id>
-      <g:title>BMW X3</g:title>
-      <g:description>2013/2013 - 156.199 km - Automático - Gasolina</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1823454</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1823454/1780757181224-8130942_14_B_240c351235.jpeg</g:image_link>
-      <g:price>88900.00 BRL</g:price>
-      <g:condition>used</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:brand>BMW</g:brand>
-      <g:google_product_category>916</g:google_product_category>
-      <g:year>2013</g:year>
-      <g:mileage>156199 km</g:mileage>
-      <g:fuel_type>Gasolina</g:fuel_type>
-    </item>
-    <item>
       <g:id>1917289</g:id>
       <g:title>Toyota Corolla</g:title>
       <g:description>2018/2019 - 120.683 km - Automático - Flex</g:description>
@@ -155,18 +140,33 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>1478352</g:id>
-      <g:title>Fiat Toro</g:title>
-      <g:description>2023/2023 - 108.787 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1478352</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1478352/1780152812423-8087611_0_B_860f1a82c8.jpeg</g:image_link>
-      <g:price>109900.00 BRL</g:price>
+      <g:id>1823454</g:id>
+      <g:title>BMW X3</g:title>
+      <g:description>2013/2013 - 156.199 km - Automático - Gasolina</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1823454</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1823454/1780757181224-8130942_14_B_240c351235.jpeg</g:image_link>
+      <g:price>88900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Fiat</g:brand>
+      <g:brand>BMW</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2023</g:year>
-      <g:mileage>108787 km</g:mileage>
+      <g:year>2013</g:year>
+      <g:mileage>156199 km</g:mileage>
+      <g:fuel_type>Gasolina</g:fuel_type>
+    </item>
+    <item>
+      <g:id>2135667</g:id>
+      <g:title>Jeep Renegade</g:title>
+      <g:description>2021/2021 - 143.428 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=2135667</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/2135667/1781557695711-8189409_12_B_61abb7513f.jpeg</g:image_link>
+      <g:price>85900.00 BRL</g:price>
+      <g:condition>used</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:brand>Jeep</g:brand>
+      <g:google_product_category>916</g:google_product_category>
+      <g:year>2021</g:year>
+      <g:mileage>143428 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
@@ -200,18 +200,18 @@
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
-      <g:id>2135667</g:id>
-      <g:title>Jeep Renegade</g:title>
-      <g:description>2021/2021 - 143.428 km - Automático - Flex</g:description>
-      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=2135667</g:link>
-      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/2135667/1781557695711-8189409_12_B_61abb7513f.jpeg</g:image_link>
-      <g:price>85900.00 BRL</g:price>
+      <g:id>1478352</g:id>
+      <g:title>Fiat Toro</g:title>
+      <g:description>2023/2023 - 108.787 km - Automático - Flex</g:description>
+      <g:link>https://rochacarveiculos.com.br/estoque/detalhes-veiculo?id=1478352</g:link>
+      <g:image_link>https://www.socarrao.com.br/sc-vehicle-images-prod/1478352/1780152812423-8087611_0_B_860f1a82c8.jpeg</g:image_link>
+      <g:price>109900.00 BRL</g:price>
       <g:condition>used</g:condition>
       <g:availability>in stock</g:availability>
-      <g:brand>Jeep</g:brand>
+      <g:brand>Fiat</g:brand>
       <g:google_product_category>916</g:google_product_category>
-      <g:year>2021</g:year>
-      <g:mileage>143428 km</g:mileage>
+      <g:year>2023</g:year>
+      <g:mileage>108787 km</g:mileage>
       <g:fuel_type>Flex</g:fuel_type>
     </item>
     <item>
